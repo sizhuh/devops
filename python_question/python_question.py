@@ -1,4 +1,4 @@
-file = "/Users/sizhuhicks/Documents/test_python_question.txt"
+#! /usr/bin/env python
 
 def reverse_word_of_a_string(file):
     with open(file, "r") as f:
